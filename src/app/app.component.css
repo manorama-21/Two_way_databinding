@@ -1,0 +1,20 @@
+h1
+{
+  text-align: center;
+}
+.container{
+  text-align: center;
+  background-color: rgba(232, 255, 127, 0.753);
+  width:30%;
+  padding: 20px;
+  border: 2px solid blue;
+  position: relative;
+  left: 500px;
+  top:100px;
+  font-size: 20px;
+}
+.center{
+  position: relative;
+  top: 100px;
+  font-size: 25px;
+}
